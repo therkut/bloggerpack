@@ -5,7 +5,7 @@
 
 # Bloggerpack
 
-The bloggerpack repo is managed as a [monorepo](https://en.wikipedia.org/wiki/Monorepo), which contains bloggerpack [packages](https://github.com/bloggerpack/bloggerpack/tree/main/packages), [plugins](https://github.com/bloggerpack/bloggerpack/tree/main/plugins) and [starters](https://github.com/bloggerpack/bloggerpack/tree/main/starters).
+The bloggerpack repo is managed as a [monorepo](https://en.wikipedia.org/wiki/Monorepo), which contains bloggerpack [packages](https://github.com/bloggerpack/bloggerpack/tree/main/packages), [plugins](https://github.com/bloggerpack/bloggerpack/tree/main/plugins) and [starters](https://github.com/bloggerpack/bloggerpack/tree/main/starters)
 
 ## Packages
 

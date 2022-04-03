@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "name": "Griddies",
+    "version": "1.0",
+    "date": "23 April 2020",
+    "homepage": "https://griddies.blogspot.com/",
+    "author": {
+      "name": "TaufiqHdyt",
+      "url": "https://me.taufiqhdyt.com/"
+    },
+    "repository": {
+      "type": "git|None",
+      "url": "git+https://github.com/BloggerTheme/BloggerPack.git|None"
+    },
+    "license": {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
