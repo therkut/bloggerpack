@@ -1,0 +1,9 @@
+/*!
+ * Theme Name    : <%= data.theme.name %>
+ * Theme URI     : <%= data.theme.uri %>
+ * Theme Version : <%= data.theme.version %>
+ * Author        : <%= data.theme.author.name %>
+ * Author URI    : <%= data.theme.author.uri %>
+ * License       : <%= data.theme.license.name %>
+ * License URI   : <%= data.theme.license.uri %>
+ */
