@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "name": "Theme Name",
+    "uri": "https://example.blogspot.com/",
+    "version": "1.0",
+    "author": {
+      "name": "Your Name",
+      "uri": "https://example.com/"
+    },
+    "license": {
+      "name": "MIT",
+      "uri": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
